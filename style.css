@@ -1,0 +1,32 @@
+body {
+	background-color:#D3B7AF;
+
+}
+
+h1 {
+	font-family: sans-serif;
+}
+
+p{
+	font-family: sans-serif;
+}
+
+body{
+	text-align: center;
+}
+
+a{
+	text-decoration: none;
+}
+
+table {
+	border-style: ridge;
+}
+
+img {
+	border-style: solid;
+}
+
+footer{
+	padding: 50px 0px 0px 0px;
+}
